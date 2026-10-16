@@ -1,0 +1,20 @@
+target/
+*.log
+cp.txt
+
+# Artefacts compiles
+*.class
+*.jar
+*.war
+
+# Bases H2 sur fichier
+*.mv.db
+*.trace.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
